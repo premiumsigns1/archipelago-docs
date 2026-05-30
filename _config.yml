@@ -1,0 +1,10 @@
+title: Archipelago Docs
+description: Location-specific compliance packs for maritime and hospitality operators
+theme: jekyll minima
+github:
+  repository_url: https://github.com/premiumsigns1/archipelago-docs
+  owner:
+    name: Archipelago
+baseurl: ""
+url: "https://premiumsigns1.github.io"
+permalink: /:title/
